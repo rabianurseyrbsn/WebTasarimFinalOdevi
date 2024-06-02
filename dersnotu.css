@@ -1,0 +1,71 @@
+body
+{
+    background-color: #cfd8dc ;
+}
+
+#anasayfa
+{
+text-align: left;
+display: inline-flex;
+}
+#hakkinda
+{
+text-align: center;
+display: inline-flex;
+}
+#DersN
+{
+text-align: right;
+display: inline-flex;
+}
+
+#satir1
+{
+    text-align: center;
+    color: red;
+}
+#tablo2
+{
+    width: 100%;
+    height: 100%;
+    border-color: black;
+    border-style: solid;
+}
+
+  
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 12px;
+}
+#baslik
+{
+  font-size: xx-large;
+  color: beige;
+  font-family: serif;
+font-style: italic;
+background-color: #424242;
+}
